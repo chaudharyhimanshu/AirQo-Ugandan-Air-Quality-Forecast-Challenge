@@ -1,4 +1,4 @@
-[AirQo-Ugandan-Air-Quality-Forecast-Challenge](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge)
+# [AirQo-Ugandan-Air-Quality-Forecast-Challenge](https://zindi.africa/competitions/airqo-ugandan-air-quality-forecast-challenge)
 
 
 This was the competition hosted on zindi.africa. In this challange we were provided with the metrological data( temperature, precipetation,
